@@ -1,0 +1,13 @@
+{
+  "VIDEO_URL": "https://www.bilibili.com/video/BV1gsU5BVEcK",
+  "MODEL_ID": "iic/speech_paraformer-large-vad-punc_asr_nat-zh-cn-16k-common-vocab8404-pytorch",
+  "MODEL_REVISION": "v2.0.4",
+  "HOTWORDS_STR": "罗永浩,锤子科技,Smartisan,工匠精神,创新型企业,用户体验,产品经理,何同学,5G,AI",
+  "CHUNK_DURATION": 300,
+  "OUTPUT_DIR": "outputs",
+  "AUDIO_TEMP_DIR": "temp/audio",
+  "VIDEO_DOWNLOAD_DIR": "downloads",
+  "LOCAL_MODEL_DIR": "funasr_model",
+  "TRANSLATE": false,
+  "KEEP_TEMP": false
+}
