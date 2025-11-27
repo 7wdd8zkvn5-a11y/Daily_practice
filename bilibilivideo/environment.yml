@@ -1,0 +1,10 @@
+name: bilibili_dl
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - ffmpeg
+  - pip:
+    - yt-dlp>=2023.0.0
